@@ -6,6 +6,8 @@ This data processing is aimed at **extracting lane-changing points of vehicles a
 
 Here is the link to get NGSIM dataset: https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj
 
+<img src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig2.png" width="100px">
+
 ![image](https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig2.png)
 
 ![image](https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig3.png)
