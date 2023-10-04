@@ -8,12 +8,12 @@ Here is the link to get NGSIM dataset: https://data.transportation.gov/Automobil
 
 
 
-![fig2](D:\NGSIM\upload\fig\fig2.png)
+![fig2](fig\fig2.png)
 
 
 
-![fig3](D:\NGSIM\upload\fig\fig3.png)
+![fig3](fig\fig3.png)
 
 
 
-![fig1](D:\NGSIM\upload\fig\fig1.png)
+![fig1](fig\fig1.png)
