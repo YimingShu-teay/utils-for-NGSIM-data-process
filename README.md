@@ -10,6 +10,6 @@ Here is the link to get NGSIM dataset: https://data.transportation.gov/Automobil
 
 <div align=center><img width="550" height="450" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig3.png"/></div>
 
-<div align=center><img width="550" height="350" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig1.png"/></div>
+<div align=center><img width="650" height="350" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig1.png"/></div>
 
 
