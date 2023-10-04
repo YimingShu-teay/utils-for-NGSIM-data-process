@@ -6,15 +6,23 @@ This data processing is aimed at **extracting lane-changing points of vehicles a
 
 Here is the link to get NGSIM dataset: https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj
 
+### Main Function
+
+1.Extraction of the driving trajectories of each lane-changing vehicle in the vicinity of lane-change points within the NGSIM dataset.
+
 
 
 <div align=center><img width="650" height="550" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig2.png"/></div>
 
 
 
+2.Treating each lane-changing vehicle as an ego vehicle, we obtained the traffic scenarios at their lane-change points.
+
 <div align=center><img width="650" height="550" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig3.png"/></div>
 
 
+
+3.Extraction of traffic features within a minimal unit scenario.
 
 <div align=center><img width="650" height="350" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig1.png"/></div>
 
