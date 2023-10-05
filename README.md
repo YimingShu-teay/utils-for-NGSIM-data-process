@@ -27,3 +27,9 @@ Here is the link to get NGSIM dataset: https://data.transportation.gov/Automobil
 <div align=center><img width="650" height="350" src="https://github.com/YimingShu-teay/utils-for-NGSIM-data-process/blob/main/fig/fig1.png"/></div>
 
 
+
+### Further Reading
+
+[1]. Zhang Y, Xu Q, Wang J, et al. A learning-based discretionary lane-change decision-making model with driving style awareness[J]. IEEE transactions on intelligent transportation systems, 2022, 24(1): 68-78.
+
+[2]. Liu Y, Wang X, Li L, et al. A novel lane change decision-making model of autonomous vehicle based on support vector machine[J]. IEEE access, 2019, 7: 26543-26550.
